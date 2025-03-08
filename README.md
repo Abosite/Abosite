@@ -29,3 +29,6 @@ Here are some ideas to get you started:
 - 后端开发：熟悉java基本语法，熟悉使用Spring,SpringMVC、Mybatis、MybatisPlus、SpringBoot、SpringSecurity等框架，具备独立开发项目的能力。
 - 数据库：熟悉MySQL、Redis等数据库的应用，熟悉其部分原理。
 - 算法：具有一段时间程序竞赛（OI、ACM）学习经历，了解部分竞赛常用算法和数据结构。
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
