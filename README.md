@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 
 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [ai-picture-picture](https://jjq-blog.com/2025/03/11/project/ai-picture/ai-picture-picture/)
+- [智能云端素材库后端-初始化](https://jjq-blog.com/2025/03/11/project/ai-picture/ai-picture-start/)
+- [智能云端素材库后端-用户模块](https://jjq-blog.com/2025/03/11/project/ai-picture/ai-picture-user/)
 - [SpringBoot-前后端分离](https://jjq-blog.com/2025/02/14/Spring/SpringBoot-FBSeparation/)
 - [SpringBoot-数据交互](https://jjq-blog.com/2025/02/13/Spring/SpringBoot-Data/)
-- [SpringBoot-start](https://jjq-blog.com/2025/02/13/Spring/SpringBoot-start/)
-- [Spring-SpringSecurity](https://jjq-blog.com/2025/02/12/Spring/Spring-SpringSecurity/)
-- [Spring-SpringMVC](https://jjq-blog.com/2025/02/12/Spring/Spring-SpringMVC/)
 <!-- BLOG-POST-LIST:END -->
 
