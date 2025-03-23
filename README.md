@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 
 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [智能云端素材库后端-图片协同编辑](https://jjq-blog.com/2025/03/23/project/ai-picture/ai-picture-teamEdit/)
+- [高并发购物秒杀系统-优化细节](https://jjq-blog.com/2025/03/21/project/shopSystem/shopSystem/)
 - [智能云端素材库后端-团队空间](https://jjq-blog.com/2025/03/13/project/ai-picture/ai-picture-teamspace/)
 - [智能云端素材库后端-图片功能扩展](https://jjq-blog.com/2025/03/13/project/ai-picture/ai-picture-picExtention/)
-- [智能云端素材库后端-空间模块](https://jjq-blog.com/2025/03/12/project/ai-picture/ai-picture-space/)
-- [智能云端素材库后端-图片模块优化](https://jjq-blog.com/2025/03/12/project/ai-picture/ai-picture-pictureImprove/)
-- [智能云端素材库后端-用户上传](https://jjq-blog.com/2025/03/12/project/ai-picture/ai-picture-userUpload/)
+- [智能云端素材库后端-私人空间模块](https://jjq-blog.com/2025/03/12/project/ai-picture/ai-picture-space/)
 <!-- BLOG-POST-LIST:END -->
 
